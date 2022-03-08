@@ -32,7 +32,5 @@
 13.  `python "program.py"` is for run program in python on script.
 14.  `rosbag` is for bags of data `play` is for playing the bag `-s 30` is for play 30 seconds after the start `-r 5` is run x5 speed
 15.  `rostopic pub` if for publishing data `<topic-name> <topic-type> [data...]` 
-16.  
-
-9
+16.  `kill` is command to end a process.
 
